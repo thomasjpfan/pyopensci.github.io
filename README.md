@@ -6,6 +6,7 @@ This is the website for pyOpenSci. Contributions welcome!!
 
 ## Development Environment
 
+
 If you want to contribute to the pyopensci website and you wish to test your changes locally prior to submitting a pr,
 do the following.
 
