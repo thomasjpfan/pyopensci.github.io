@@ -1,0 +1,17 @@
+version: 2.1
+
+jobs:
+  lint:
+    docker:
+      - image: cimg/ruby:3.2.2
+    steps:
+      - checkout
+      - run
+          name: Install dependencies
+          command: bundle install
+      - run:
+          name: Jekyll build
+          command: bundle exec jekyll build
+      - store_artifacts:
+          path: _site
+          destination: _site
