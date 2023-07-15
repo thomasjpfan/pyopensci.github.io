@@ -6,7 +6,7 @@ jobs:
       - image: cimg/ruby:3.2.2
     steps:
       - checkout
-      - run
+      - run:
           name: Install dependencies
           command: bundle install
       - run:
