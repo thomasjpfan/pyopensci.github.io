@@ -76,7 +76,7 @@ I spent a bit of time in that video talking about how we create our guides.
 - Our process is normally several steps including an initial writing of content that is reviewed by experts. Followed by 2 rounds of open reviews of the content. The image below describes that process.
 
 <figure>
-    <a href="/images/python-packages/pycon-packaging-review-process.png">
+    <a href="images/python-packages/pycon-packaging-review-process.png">
     <img src="/images/python-packages/pycon-packaging-review-process.png" style="max-width:100%" alt="Graphic that has a large purple thick arrow. The title says Python Packaging Guide - Our Process. The sections in the arrow include Talk with core experts (write a section of the guide), semi-closed review (core experts review), Open Review 1 (ping tool developers and maintainers and welcome broad community feedback) and Open Review 2 (welcome broad community feedback).">
     </a>
     <figcaption>Image from my talk that shows our packaging guide review process. Our packaging guide is community-driven. This means that every page of the guide has been reviewed by dozens of people with expertise in the packaging space. While this meant that it is taking extra time to create the guide, it also means the community supports it. We value community knowledge and input at pyOpenSci.
@@ -91,7 +91,7 @@ packaging tools.
 _Leave no stone unturned_ (my motto when doing most things).
 
 <figure>
-    <a href="/images/python-packages/pyOS-package-guide-contributors.png">
+    <a href="images/python-packages/pyOS-package-guide-contributors.png">
     <img src="/images/python-packages/pyOS-package-guide-contributors.png" style="max-width:100%" alt=".sdf">
     </a>
     <figcaption>Image from my talk that shows our packaging guide review process. Our packaging guide is community-driven. This means that every page of the guide has been reviewed by dozens of people with expertise in the packaging space. While this meant that it is taking extra time to create the guide, it also means the community supports it. We value community knowledge and input at pyOpenSci.
@@ -157,7 +157,7 @@ people who wanted to contribute! And each of them was able to contribute (many
 for their very first time!!). It was awesome.
 
 <figure>
-    <a href="/images/people/pycon-2023-mentored-sprints-pyopensci.png">
+    <a href="images/people/pycon-2023-mentored-sprints-pyopensci.png">
     <img src="/images/people/pycon-2023-mentored-sprints-pyopensci.png" style="max-width:100%" alt="Image showing people at laptops sitting around a round table wearing masks during our PyCon 2023 mentored sprint. ">
     </a>
     <figcaption>Contributors working together in small groups during our mentored sprints at PyCon 2023. People worked together on issues in pairs and had help from dedicated mentors. Most of the contributors had Python experience but also most had never contributed to open source before.

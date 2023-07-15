@@ -156,4 +156,4 @@ are, in places, less stringent than those of pyOpenSci.
 
 <br clear="both">
 
-<a href="/python-packages/" class="btn btn--info">View All Accepted Packages <i class="fa fa-4 fa-arrow-circle-right" aria-hidden="true"></i></a>
+<a href="python-packages/" class="btn btn--info">View All Accepted Packages <i class="fa fa-4 fa-arrow-circle-right" aria-hidden="true"></i></a>

@@ -28,7 +28,7 @@ David Nicholson, our pyOpenSci Editor in Chief, gave a fantastic lightning talk 
 Just a few months prior, David had submitted a package he's been developing called Crowsetta, that helps scientists work with annotations for animal vocalization and bioacoustics data. Given he is the Editor in Chief of our peer review process, we had wonderful volunteers from our editorial team step in to run the review to ensure it wasn't in any way biased.
 
 <figure>
-    <a href="/images/talks/intro-slide-david-nicholson-crowsetta-lightning-pycon2023.png">
+    <a href="images/talks/intro-slide-david-nicholson-crowsetta-lightning-pycon2023.png">
     <img src="/images/talks/intro-slide-david-nicholson-crowsetta-lightning-pycon2023.png" style="max-width:100%" alt="Image showing the title slide of David's talk. At the top is says - Sorry this talk doesn't have any ChatGPT. It then says my experience submitting to pyOpenSci. At the bottom you can see david's website (nicholdav.info), github NickleDave, Twitter nicholdav and mastodon account nicholdav@fosstodon.org">
     </a>
     <figcaption>Intro slide for David's Lightning talk at pyCon 2023 US.
