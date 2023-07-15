@@ -72,7 +72,7 @@ ecosystem. These packages tend to have smaller user bases, and smaller maintaine
 teams (or often are maintained by one volunteer person).
 
 <figure>
-    <a href="images/python-packages/python-ecosystem-jake-vanderploss-pycon-2017.png"><img src="/images/python-packages/python-ecosystem-jake-vanderploss-pycon-2017.png" alt="Image used by Jake Vanderploss in the 2017 pycon conference that shows
+    <a href="images/python-packages/python-ecosystem-jake-vanderploss-pycon-2017.png"><img src="images/python-packages/python-ecosystem-jake-vanderploss-pycon-2017.png" alt="Image used by Jake Vanderploss in the 2017 pycon conference that shows
     the ecosystem of scientific python packages starting with foundational packages
     and moving out to the wealth of smaller, domain specific packages."></a>
     <figcaption>Image used by Jake Vanderploss in the 2017 pycon conference that shows
@@ -126,7 +126,7 @@ Below are some of the metrics that you can easily access via Snyk's website.
 #### [Pandera python package metrics on Snyk](https://snyk.io/advisor/python/pandera)
 
 <figure>
-    <a href="images/pyopensci-packages/snyk-pandera-python-package-metrics.png"><img src="/images/pyopensci-packages/snyk-pandera-python-package-metrics.png" alt="Image showing the metrics from the Snyk website for the `pandera` package in our ecosystem."></a>
+    <a href="images/pyopensci-packages/snyk-pandera-python-package-metrics.png"><img src="images/pyopensci-packages/snyk-pandera-python-package-metrics.png" alt="Image showing the metrics from the Snyk website for the `pandera` package in our ecosystem."></a>
     <figcaption>Here you can see what a Snyk report looks like for pandera, a package accepted into our ecosystem a few years ago. Pandera gets a very healthy report because it's heavily used among other metrics.
     </figcaption>
 </figure>
@@ -134,7 +134,7 @@ Below are some of the metrics that you can easily access via Snyk's website.
 #### Now let's look at [pyGMT package statistics on Snyk](https://snyk.io/advisor/python/pygmt)
 
 <figure>
-    <a href="images/pyopensci-packages/snyk-pygmt-python-package-metrics.png"><img src="/images/pyopensci-packages/snyk-pygmt-python-package-metrics.png" alt="Image showing the metrics from the snyk website for the pyGMT package in our ecosystem."></a>
+    <a href="images/pyopensci-packages/snyk-pygmt-python-package-metrics.png"><img src="images/pyopensci-packages/snyk-pygmt-python-package-metrics.png" alt="Image showing the metrics from the snyk website for the pyGMT package in our ecosystem."></a>
     <figcaption>In comparison to pandera, pyGMT gets a lower, but still good, health score. I suspect this is due to lower community adoption and use. pyGMT is a much newer package. We'd argue however that pyGMT has a very healthy level of maintenance and even healthier package structure.
     </figcaption>
 </figure>
@@ -218,7 +218,7 @@ Note that we are missing some important components:
 - Pull request templates to guide people through opening pull requests
 - Repository admins accepting content reporting
 
-{% include figure image_path="/images/python-software-health/healthy-software-repo-file-checks-github.png" alt="Image showing the community standards page in GitHub. You can see in the image we are missing several critical files including  a code of conduct file, a contributing file that helps people understand how to contribute to the guide and issue and pull request templates." caption="Here you can see the community page in GitHub for our contributing-guide repository. Note that we are missing several important items in the repo including a code of conduct file, a contributing file that helps people understand how to contribute to the guide and issue and pull request templates. HELP!" %}
+{% include figure image_path="images/python-software-health/healthy-software-repo-file-checks-github.png" alt="Image showing the community standards page in GitHub. You can see in the image we are missing several critical files including  a code of conduct file, a contributing file that helps people understand how to contribute to the guide and issue and pull request templates." caption="Here you can see the community page in GitHub for our contributing-guide repository. Note that we are missing several important items in the repo including a code of conduct file, a contributing file that helps people understand how to contribute to the guide and issue and pull request templates. HELP!" %}
 
 > Um.... we've got some real work to do, y'all on our guides and repos. We need to set a better example here don't we? We welcome help welcome if you are reading this and wanna contribute. Just sayin...
 
@@ -288,7 +288,7 @@ links and other potential errors.
 In fact the website that you are on [RIGHT NOW has a set of checks that run to test links](https://github.com/pyOpenSci/pyopensci.github.io/actions) throughout the site and to check for alt tags in support of accessibility (Alt tags support people using screen readers to navigate a website).
 
 <figure>
-    <a href="images/python-software-health/html-proofer-pyopensci-website-checks.png"><img src="/images/python-software-health/html-proofer-pyopensci-website-checks.png" alt="Image showing the output of htmlproofer for a website. You can see that it tells you when and where there are broken links or missing alt tags."></a>
+    <a href="images/python-software-health/html-proofer-pyopensci-website-checks.png"><img src="images/python-software-health/html-proofer-pyopensci-website-checks.png" alt="Image showing the output of htmlproofer for a website. You can see that it tells you when and where there are broken links or missing alt tags."></a>
     <figcaption>Notice in this output from htmlproofer on GitHub actions (continuous integration) that every page with a broken link or image with a missing alt tag will be flagged. Any flags will result in a broken build on GitHub - the dreaded red x.
     </figcaption>
 </figure>
@@ -376,7 +376,7 @@ items that they look for:
 2. [Bus factor](https://www.michaelbromley.co.uk/blog/but-what-about-the-bus-factor/)
 3. Release cadence (a topic brought up a few times throughout the discussion)
 
-{% include figure image_path="/images/python-software-health/bus-factor-python-package-health.png" alt="Funny meme image showing a bus being wrecked by a train with the text - bus factor isn't about buses." caption="Bus factor refers to the degree of risk associated with a package based on the number of maintainers and organizations supporting it." %}
+{% include figure image_path="images/python-software-health/bus-factor-python-package-health.png" alt="Funny meme image showing a bus being wrecked by a train with the text - bus factor isn't about buses." caption="Bus factor refers to the degree of risk associated with a package based on the number of maintainers and organizations supporting it." %}
 
 Remember, _bus factor_ has nothing to do with buses, but there is some truth to the
 analogy of what happens when the wheels fall off.

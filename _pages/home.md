@@ -51,7 +51,7 @@ peer-review:
    <div class="feature__item--left">
       <div class="archive__item">
          <div class="archive__item-teaser">
-            <img src="/images/people/pyopensci-sprint-pycon-2023.png" alt="Image showing 3 people working at 2 computers during a spring at pyCon USA 2023.">
+            <img src="images/people/pyopensci-sprint-pycon-2023.png" alt="Image showing 3 people working at 2 computers during a spring at pyCon USA 2023.">
          </div>
          <div class="archive__item-body">
             <h2 class="archive__item-title">Peer Review Mentorship Program</h2>

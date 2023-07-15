@@ -1,7 +1,7 @@
 Leah Wasser:
-  name        : "Leah Wasser"
-  bio         : "Executive Director & Founder, pyOpenSci"
-  avatar      : "/images/people/leah-wasser-pyopensci-leadership.jpg"
+  name: "Leah Wasser"
+  bio: "Executive Director & Founder, pyOpenSci"
+  avatar: "images/people/leah-wasser-pyopensci-leadership.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -22,9 +22,9 @@ Leah Wasser:
       icon: "fab fa-fw fa-mastodon"
       url: "https://fosstodon.org/@leahawasser"
 Niels Bantilan:
-  name        : "Niels Bantilan"
-  bio         : "Data Scientist, Machine Learning Engineer"
-  avatar      : "/images/people/niels-bantilan-pyopensci.jpg"
+  name: "Niels Bantilan"
+  bio: "Data Scientist, Machine Learning Engineer"
+  avatar: "images/people/niels-bantilan-pyopensci.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -36,9 +36,9 @@ Niels Bantilan:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cosmicbboy"
 Anita Graser:
-  name        : "Anita Graser"
-  bio         : "Data Scientist, Spatial Data Analyst, AIT Vienna"
-  avatar      : "/images/people/anita-graser.png"
+  name: "Anita Graser"
+  bio: "Data Scientist, Spatial Data Analyst, AIT Vienna"
+  avatar: "images/people/anita-graser.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

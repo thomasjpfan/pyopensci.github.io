@@ -81,7 +81,7 @@ that to another blog post.
 
 <figure>
     <a href="images/foss-free-open-source-software/why-scientists-should-care-open-source.png">
-    <img src="/images/foss-free-open-source-software/why-scientists-should-care-open-source.png" style="max-width:70%" alt="Image with a blue computer keyboard background with the text: why scientists should care about open source software on top.">
+    <img src="images/foss-free-open-source-software/why-scientists-should-care-open-source.png" style="max-width:70%" alt="Image with a blue computer keyboard background with the text: why scientists should care about open source software on top.">
     </a>
     <figcaption>If you are a scientist using open science approaches, then your workflow likely depends upon open source tools. These tools are critical to our work and yet are often not supported or consider
     as integral components of open science.
@@ -139,7 +139,7 @@ is maintained?
 
 <figure>
     <a href="images/foss-free-open-source-software/orphan-python-open-source-packages.png">
-    <img src="/images/foss-free-open-source-software/orphan-python-open-source-packages.png" style="max-width:70%" alt="Image showing girl crying with text orphan python packages are breaking my open workflows.">
+    <img src="images/foss-free-open-source-software/orphan-python-open-source-packages.png" style="max-width:70%" alt="Image showing girl crying with text orphan python packages are breaking my open workflows.">
     </a>
     <figcaption>Your workflow likely depends upon tools that are being developed
     by volunteers. Supporting these tools is critical to supporting open science. And
@@ -155,7 +155,7 @@ are the types of issues that pyOpenSci will address.
 
 <figure>
     <a href="images/foss-free-open-source-software/xkcd-open-source-dependency.png">
-    <img src="/images/foss-free-open-source-software/xkcd-open-source-dependency.png" style="max-width:70%" alt="Image showing xkcd comic with a robotic type of image representing a scientific workflow and pointing to the small open source package maintained by one person that is a major dependency of the workflow.">
+    <img src="images/foss-free-open-source-software/xkcd-open-source-dependency.png" style="max-width:70%" alt="Image showing xkcd comic with a robotic type of image representing a scientific workflow and pointing to the small open source package maintained by one person that is a major dependency of the workflow.">
     </a>
     <figcaption>Critical scientific workflows and projects often have dependencies
             that are maintained by volunteers. Source: XKCD </figcaption>
